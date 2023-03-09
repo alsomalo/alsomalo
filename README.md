@@ -12,6 +12,9 @@
  *   🌱 I am currently practicing **C#** and also interested in **Web Development**.
  *   🎯 My goal is to get a job as junior software developer.
  *   ✨ I try to train myself everyday at programming and learn some new stuff.
+    
+    ![GitHub Logo](/images/logo.png)
+
 
 </tr>
 </table>
