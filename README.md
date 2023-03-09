@@ -1,8 +1,8 @@
-# Hi, I'm AlsoMalo <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
+# Hi, I'm AlsoMalo <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="40px">
 
 ---
 
-<h1>Connect With Me</h1>
+# Connect With Me    <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Point_Down.gif" width="29px">
   <div id="badges">
   <a href="https://t.me/Herzenbrecher3000">
   <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
