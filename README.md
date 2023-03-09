@@ -1,12 +1,15 @@
 # Hi, I'm AlsoMalo <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 
 <h1>Connect With Me</h1>
-
-![@Herzenbrecher3000](https://t.me/Herzenbrecher3000 "Telegram channel")
-
-<div id="header" align="center">
-  <img src="[https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif](https://www.flaticon.com/free-icon/telegram_2111646?term=social+media&page=1&position=65&origin=tag&related_id=2111646)" width="100"/>
+  <div id="badges">
+  <a href="https://t.me/Herzenbrecher3000">
+  <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
+  </a>
+  <a href="https://www.codewars.com/users/alsomalo">
+  <img src="https://img.shields.io/badge/Codewars-red?style=for-the-badge&logo=codewars&logoColor=white" alt="Codewars Badge"/>
+  </a>
 </div>
+
 
 <h1>About Me</h1>
 <table>
