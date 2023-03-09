@@ -6,7 +6,7 @@
   <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
   <a href="https://www.codewars.com/users/alsomalo">
-  <img src="https://img.shields.io/badge/Codewars-red?style=for-the-badge&logo=codewars&logoColor=white" alt="Codewars Badge"/>
+  <img src="https://img.shields.io/badge/Codewars-red?style=for-the-badge&logo=codewars&logoColor=black" alt="Codewars Badge"/>
   </a>
 </div>
 
