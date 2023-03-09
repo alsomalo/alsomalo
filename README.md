@@ -9,9 +9,9 @@
   <td valign="center">
  
  *   🎓 I graduated from Ural Federal University and received a bachelor's degree in political science.
- *   🌱 I am currently learning **C#** and also interested in **Web Development (Backend Mainly)**.
+ *   🌱 I am currently practicing **C#** and also interested in **Web Development**.
  *   🎯 My goal is to get a job as junior software developer.
- *   ✨ I try to train myself everyday at **codewars.com**.
+ *   ✨ I try to train myself everyday at programming and learn some new stuff.
 
 </tr>
 </table>
