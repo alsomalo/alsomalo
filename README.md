@@ -1,7 +1,7 @@
 # Hi, I'm AlsoMalo <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 
 <h1>Connect With Me</h1>
-
+![Telegram Logo](D:\Pomoyka\telegram.png)
 
 <h1>About Me</h1>
 <table>
@@ -13,8 +13,6 @@
  *   🎯 My goal is to get a job as junior software developer.
  *   ✨ I try to train myself everyday at programming and learn some new stuff.
     
-    ![GitHub Logo](/images/logo.png)
-
 
 </tr>
 </table>
