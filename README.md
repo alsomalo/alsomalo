@@ -2,7 +2,7 @@
 
 <h1>Connect With Me</h1>
 
-![This is an image](https://ru.wikipedia.org/wiki/Telegram#/media/%D0%A4%D0%B0%D0%B9%D0%BB:Telegram_2019_Logo.svg)
+![https://t.me/Herzenbrecher3000](telegram.png)
 
 <h1>About Me</h1>
 <table>
