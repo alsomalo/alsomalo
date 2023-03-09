@@ -46,5 +46,5 @@ Here are some ideas to get you started:
 # replace username with your own or change theme ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=#your-username&theme=dracula&hide_border=true)
 
 
-https://javascript.plainenglish.io/make-your-github-profile-standout-to-attract-better-opportunities-b9114b7ef686 - here is guide
+https://proglib.io/p/kak-kreativno-oformit-profil-na-github-chtoby-on-privlekal-vnimanie-2022-03-17 - here is guide
 -->
