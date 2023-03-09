@@ -1,7 +1,7 @@
 # Hi, I'm AlsoMalo <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 
 <h1>Connect With Me</h1>
-![Telegram Logo](D:\Pomoyka\telegram.png)
+<h1>![Telegram Logo](D:\Pomoyka\telegram.png)</h1>
 
 <h1>About Me</h1>
 <table>
