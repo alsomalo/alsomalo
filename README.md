@@ -2,7 +2,7 @@
 
 <h1>Connect With Me</h1>
 
-![telegram.png](https://t.me/Herzenbrecher3000)
+![https://t.me/Herzenbrecher3000]()
 
 <h1>About Me</h1>
 <table>
