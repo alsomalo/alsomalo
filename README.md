@@ -20,7 +20,7 @@
   <td valign="center">
  
  *   🎓 I graduated from Ural Federal University and received a bachelor's degree in political science.
- *   🌱 I am currently practicing programming using **.NET**.
+ *   🌱 I am currently programming with **.NET**.
  *   🎯 My goal is to someday become **one of the best Software Developers**.
  *   ✨ I try to train myself everyday at solving programming tasks and learn some new stuff.
     
